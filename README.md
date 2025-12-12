@@ -1,5 +1,5 @@
 ## 🚀 Sobre mim
-Sou estudante de **Sistemas de Informação** com experiência em design digital pela minha própria marca, **Sly Design**.  
+Sou estudante de **Sistemas de Informação** pela Universidade Federal de Uberlândia (UFU) com experiência em design digital pela minha própria marca, **Sly Design**.  
 
 **Atualmente estudando:**
 - Python (intermediário → avançado)  
